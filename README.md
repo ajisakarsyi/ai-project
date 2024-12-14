@@ -77,7 +77,7 @@ Production Cluster: Produksi Rendah
 
 ## 📊 Dataset
 Data berasal dari sumber berikut :
-'https://www.kaggle.com/datasets/ardikasatria/datasettanamanpadisumatera'
+`https://www.kaggle.com/datasets/ardikasatria/datasettanamanpadisumatera`
 Dataset yang digunakan diambil mencakup informasi berikut:
 - **Luas Panen** (hektar)
 - **Curah Hujan** (mm)
