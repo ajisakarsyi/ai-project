@@ -49,7 +49,7 @@ suhu_rata_rata = 27     # Suhu rata-rata (°C)
 **Output**:
 ```bash
 Predicted Production: 800.34
-Production Cluster: Produksi Rendah
+Production Cluster: Low Production
 ```
 
 ---
