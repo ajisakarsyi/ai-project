@@ -32,8 +32,9 @@ pip install -r requirements.txt
 
 ### 2. Jalankan Model
 1. **Unduh atau klon repositori ini**.
-2. **Buka file** `ai-jupyter.ipynb`.
-3. Ubah section input sesuai dengan luas panen, curah hujan, kelembapan, dan suhu rata-rata yang diinginkan.
+2. **Buka file** `ai-runscript.py`.
+3. Jalankan kode.
+4. Isi input sesuai dengan parameter yang diminta.
 
 ### 3. Contoh Input dan Output
 
