@@ -23,7 +23,7 @@ def preprocess_input(features):
     return scaler.transform([features])
 
 def predict():
-    print("Enter the following features for prediction:")
+    print("Masukkan parameter :")
     try:
         luas_panen = float(input("Luas Panen: "))
         curah_hujan = float(input("Curah Hujan: "))
@@ -34,9 +34,9 @@ def predict():
         processed_features = preprocess_input(features)
         
         prediction = model.predict(processed_features)
-        print(f"Predicted Produksi: {prediction[0][0]:.2f}")
+        print(f"Prediksi Produksi: {prediction[0][0]:.2f}")
     except Exception as e:
-        print(f"Error during prediction: {e}")
+        print(f"Error saat prediksi: {e}")
 
 if __name__ == "__main__":
     predict()
