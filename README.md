@@ -10,10 +10,10 @@ Proyek ini menggunakan model **Neural Network** berbasis **TensorFlow** untuk me
 
 ### 2. Klasifikasi Produksi
 Hasil prediksi dikelompokkan ke dalam 4 kategori:
-- **Produksi Rendah**
-- **Produksi Sedang**
-- **Produksi Tinggi**
-- **Produksi Sangat Tinggi**
+- **Low Production**
+- **Moderate Production**
+- **High Production**
+- **Very High Production**
 
 ### 3. Arsitektur Neural Network
 Jaringan terdiri dari beberapa lapisan **dense** dengan **dropout** untuk meningkatkan akurasi dan mengurangi overfitting.
