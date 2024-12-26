@@ -90,3 +90,4 @@ Dataset yang digunakan diambil mencakup informasi berikut:
 
 ## 👤 Dikembangkan oleh
 Muhammad Ajisaka Arsyi Taj
+Little note : 11 user telah clone github ini pada tanggal pengerjaan proyek, pengoreksi bisa diperhatikan pada kelompok yang temanya sama, sekiranya program mereka ada yang serupa.
