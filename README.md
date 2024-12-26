@@ -89,4 +89,4 @@ Dataset yang digunakan diambil mencakup informasi berikut:
 ---
 
 ## 👤 Dikembangkan oleh
-[Nama Anda]
+Muhammad Ajisaka Arsyi Taj
